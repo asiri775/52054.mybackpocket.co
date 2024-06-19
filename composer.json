@@ -1,0 +1,11 @@
+{
+    "require": {
+        "rappasoft/laravel-livewire-tables": "^1.21",
+        "livewire/livewire": "^2.8",
+        "spatie/pdf-to-text": "^1.5",
+      "ext-imagick": "*",
+        "orhanerday/open-ai": "^5.0",
+        "thiagoalessio/tesseract_ocr": "^2.13",
+        "spatie/pdf-to-image": "^2.2"
+    }
+}
